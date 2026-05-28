@@ -48,4 +48,3 @@ Most of my work is private, client-based, or linked from curated project spaces.
 <div align="center">
   <img src="i am Lee Berté.gif" alt="Lee Berté branding" />
 </div>
-```
